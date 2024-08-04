@@ -1,6 +1,6 @@
 <!--
 **CodeByO/CodeByO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### 🌱🌱🌱
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### &#x1f4c8; My GitHub Stats
-🌱🌱🌱
 <a href="https://CodeByO.net">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByO&show_icons=true&line_height=33&count_private=true&theme=dark" alt="CodeByO's GitHub Stats" />
 </a>
