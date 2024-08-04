@@ -1,10 +1,26 @@
-## 👋 Hi. I'm OH BYEONGYUN! 👋
+### 🌱🌱🌱
 
-I am an undergraduate student interested in Car security.   
-I want to be a security expert that creates a more ethical world.   
-Feel free to contact me. Thank you:blush:
+<!--
+*CodeByO/CodeByO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## ⚡ Get Connected ⚡
+Here are some ideas to get you started:
 
-<a href="mailto:code.by.o831@gmail.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=code.by.o831@gmail.com"/></a>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByO&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&hide=contribs" alt="CodeByO's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByO&layout=compact&theme=swift&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/CodeByO/count.svg" alt="" /></td>
+  </tr>
+</table>
