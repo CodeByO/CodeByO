@@ -1,7 +1,5 @@
-### 🌱🌱🌱
-
 <!--
-*CodeByO/CodeByO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodeByO/CodeByO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,9 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### &#x1f4c8; My GitHub Stats
+🌱🌱🌱
+<a href="https://CodeByO.net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByO&show_icons=true&line_height=33&count_private=true&theme=dark" alt="CodeByO's GitHub Stats" />
+</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeByO&show_icons=true&include_all_commits=true&theme=swift&hide_border=true&hide=contribs" alt="CodeByO's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByO&layout=compact&theme=swift&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://CodeByO.net">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByO&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://CodeByO.net">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByO&theme=dark" />
+</a>
+<br/>
+
+---
 
 <table>
   <tr>
